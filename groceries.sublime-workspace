@@ -255,6 +255,23 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "app/pages/selfie/selfie.component.ts",
+			"settings":
+			{
+				"buffer_size": 1489,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/shared/grocery/grocery-list.service.ts",
+			"settings":
+			{
+				"buffer_size": 2895,
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -373,10 +390,27 @@
 	},
 	"expanded_folders":
 	[
-		"/C/xampp/htdocs/groceries-native"
+		"/C/xampp/htdocs/groceries-native",
+		"/C/xampp/htdocs/groceries-native/app",
+		"/C/xampp/htdocs/groceries-native/app/pages",
+		"/C/xampp/htdocs/groceries-native/app/pages/login",
+		"/C/xampp/htdocs/groceries-native/app/pages/selfie",
+		"/C/xampp/htdocs/groceries-native/app/shared",
+		"/C/xampp/htdocs/groceries-native/app/shared/grocery"
 	],
 	"file_history":
 	[
+		"/C/xampp/htdocs/groceries-native/.gitignore",
+		"/C/xampp/htdocs/groceries-native/app/pages/login/login.component.html",
+		"/C/xampp/htdocs/groceries-native/app/app.module.ts",
+		"/C/xampp/htdocs/groceries-native/app/pages/selfie/selfie.component.html",
+		"/C/xampp/htdocs/groceries-native/app/pages/selfie/selfie.component.scss",
+		"/C/xampp/htdocs/groceries-native/app/pages/selfie/selfie.component.css",
+		"/C/xampp/htdocs/groceries-native/app/pages/login/login-common.scss",
+		"/C/xampp/htdocs/groceries-native/app/_app-common.scss",
+		"/C/xampp/htdocs/groceries-native/app/pages/login/login.component.ts",
+		"/C/xampp/htdocs/groceries-native/app/app.routing.ts",
+		"/C/xampp/htdocs/groceries-native/groceries.sublime-project",
 		"/C/Program Files/Sublime Text 3/NOjs.sublime-project",
 		"/C/xampp/htdocs/ngtest/ng-test/package.json",
 		"/C/xampp/htdocs/ngtest/ng-test/src/app/app.module.js",
@@ -493,18 +527,7 @@
 		"/C/Users/Starkey/AppData/Local/Temp/scp31891/var/www/html/v2alpha/application/config/hooks.php",
 		"/C/Users/Starkey/AppData/Local/Temp/scp33268/var/www/html/v2alpha/application/controllers/Dashboard.php",
 		"/C/Users/Starkey/AppData/Local/Temp/scp24190/var/www/html/v2alpha/application/config/constants.php",
-		"/C/Users/Starkey/AppData/Local/Temp/scp29290/var/www/html/v2alpha/application/config/database.php",
-		"/C/xampp/htdocs/v2/application/models/Updater_model.php",
-		"/C/Users/Starkey/AppData/Local/Temp/scp06192/etc/php/7.1/apache2/php.ini",
-		"/C/xampp/htdocs/v2/application/models/Register_model.php",
-		"/C/Users/Starkey/AppData/Local/Temp/scp30142/var/www/html/v2/application/logs/log-2017-02-17.php",
-		"/C/xampp/htdocs/v2/application/models/Dashboard_model.php",
-		"/C/xampp/htdocs/v2/application/models/Login_model.php",
-		"/C/xampp/htdocs/v2/application/models/MarketOrders_model.php",
-		"/C/xampp/htdocs/v2/application/models/NetworthTracker_model.php",
-		"/C/xampp/htdocs/v2/application/models/Tax_Model.php",
-		"/C/xampp/htdocs/v2/application/models/TradeSimulator_model.php",
-		"/C/Users/Starkey/AppData/Local/Temp/scp30519/var/www/html/v2/application/logs/log-2017-02-18.php"
+		"/C/Users/Starkey/AppData/Local/Temp/scp29290/var/www/html/v2alpha/application/config/database.php"
 	],
 	"find":
 	{
@@ -859,8 +882,75 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "app/pages/selfie/selfie.component.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1489,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								994,
+								994
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": false,
+								"indentSize": 4,
+								"tabSize": 4
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 100.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/shared/grocery/grocery-list.service.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2895,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								414,
+								418
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 546.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
 			]
 		}
 	],

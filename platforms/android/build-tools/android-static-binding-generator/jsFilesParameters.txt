@@ -1,0 +1,1 @@
+C:\xampp\htdocs\groceries-native\platforms\android\src\main\assets\app\pages\selfie\selfie.component.js

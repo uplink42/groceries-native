@@ -1,0 +1,9 @@
+{
+	"folders":
+	[
+		{
+			"path": "C:\\xampp\\htdocs\\Groceries",
+			"folder_exclude_patterns": ["*.js"]
+		}
+	]
+}
