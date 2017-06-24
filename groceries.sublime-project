@@ -1,0 +1,12 @@
+{
+	"folders":
+	[
+		{
+			"path": "C:\\xampp\\htdocs\\groceries-native",
+			"file_exclude_patterns": [
+				"*.js",
+				"*.js.map"
+			]
+		}
+	]
+}

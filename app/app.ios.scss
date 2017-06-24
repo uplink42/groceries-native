@@ -1,0 +1,11 @@
+@import 'app-common';
+@import '~nativescript-theme-core/scss/platforms/index.ios';
+
+TextField {
+    border-width: 1;
+    border-color: black;
+}
+
+Page {
+	margin-top: -20;
+}
